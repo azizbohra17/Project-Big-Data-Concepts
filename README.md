@@ -43,4 +43,4 @@ Please refer to the documentation and source code for more detailed instructions
 
 - [Aziz Bohra](https://github.com/azizbohra17)
 
-Feel free to contribute to this project by opening issues or submitting pull requests. Any contributions are welcome!
+
